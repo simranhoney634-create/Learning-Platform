@@ -5,6 +5,8 @@
 body{
     background-color: #FEC5F6;
     color:#AF3E3E;
+    color:blue;
+    text-shadow: 1px 2px 2px white;
 }
 .heading{
     height: 110px;
@@ -73,4 +75,16 @@ iframe{
 }
 .foot{
     text-align: center;
+}
+.input{
+    display: inline-block;
+    margin-bottom: 70px;
+    height:40px;
+    font-size: 20px;
+    font-weight: 400;
+}
+h3{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
 }
